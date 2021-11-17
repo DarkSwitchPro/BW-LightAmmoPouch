@@ -1,0 +1,46 @@
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\obj\Debug\MelonLoaderMod.csproj.AssemblyReference.cache
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\obj\Debug\MelonLoaderMod.csproj.CoreCompileInputs.cache
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\Assembly-CSharp.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\Il2Cppmscorlib.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\MelonLoader.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\UnhollowerBaseLib.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\UnhollowerRuntimeLib.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\UnityEngine.CoreModule.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\UnityEngine.UI.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\UnityEngine.AnimationModule.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\TextMeshPro-1.0.55.2017.2.0b12.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\UnityEngine.AudioModule.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\UnityEngine.AIModule.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\UnityEngine.TerrainModule.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\UnityEngine.WindModule.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\UnityEngine.UIModule.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\ch.sycoforge.Decal.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\Il2CppSystem.Core.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\Il2CppSystem.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\UnityEngine.ClothModule.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\SteamVR.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\Oculus.VR.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\NavMeshComponents.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\UnityEngine.DirectorModule.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\UnityEngine.Timeline.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\com.unity.postprocessing.Runtime.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\UnityEngine.VideoModule.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\Iced.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\Il2CppMono.Security.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\Il2CppSystem.Configuration.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\Il2CppSystem.Xml.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\UnityEngine.XRModule.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\obj\Debug\MelonLoaderMod.csproj.CopyComplete
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\Light Ammo Pouch.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\bin\Debug\Light Ammo Pouch.pdb
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\obj\Debug\Light Ammo Pouch.dll
+D:\PC Software\VS Projects\BONEWORKS Light Ammo Pouch\obj\Debug\Light Ammo Pouch.pdb
